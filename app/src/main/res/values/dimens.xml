@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="set_radius">20dp</dimen>
+    <dimen name="layout_margin">15dp</dimen>
+    <dimen name="padding_btn">8dp</dimen>
+    <dimen name="padding_button_click">5dp</dimen>
+</resources>

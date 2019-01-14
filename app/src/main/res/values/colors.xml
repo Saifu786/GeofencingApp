@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="circle_red">#cef93946</color>
+    <color name="material_orange_500">#FF9800</color>
+    <color name="inbox_accent">#db4437</color>
+    <color name="inbox_primary">#f3f9f3</color>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fab_add_geofence" type="id" />
+    <item name="fab_add_action" type="id" />
+    <item name="fab_replace_action" type="id" />
+    <item name="fab_remove_action" type="id" />
+</resources>

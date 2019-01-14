@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GeofencingApp</string>
+    <string name="geofence_not_available">
+        Unknown Error : Location Not Found
+    </string>
+    <string name="geofence_unknown_error">
+        Error fetching Location
+    </string>
+    <string name="geofence_too_many_geofences">
+        Registered many times for geofence
+    </string>
+    <string name="geofence_too_many_pending_intents">
+        Exceed Notification Count
+    </string>
+    <string name="geofence_added">Geofence Added</string>
+    <string name="geofence_removed">Geofence Removed</string>
+    <string name="insufficient_permissions">Insufficient permissions.</string>
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core functionality.</string>
+    <string name="settings">Settings</string>
+    <string name="message_text_big">Message Received</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="set_radius_geofence">Set Radius</string>
+    <string name="add_radius">ADD</string>
+    <string name="label_replace_action">Remove Geo-Fence</string>
+    <string name="label_remove_action">Remove action</string>
+    <string name="label_custom_color">Add Geo-Fence</string>
+
+</resources>
